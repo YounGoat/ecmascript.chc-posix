@@ -1,5 +1,7 @@
 {
-    "dependencies": {},
+    "dependencies": {
+        "chc": "^0.0.2"
+    },
     "devDependencies": {
         "mocha": "^3.3.0"
     },
@@ -8,7 +10,7 @@
         "test": "mocha"
     },
     "name": "chc-posix",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "main": "index.js",
     "keywords": [
         "lower",
